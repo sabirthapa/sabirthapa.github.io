@@ -18,10 +18,9 @@ author:
   avatar: "images/sabirthapa.jpg"  
   bio: "CSE, University at Buffalo"
   location: "Buffalo, NY, USA"
-  employer: "University at Buffalo"
   email: "sabirtha@buffalo.edu"
   github: "sabirthapa"
-  linkedin: "https://www.linkedin.com/in/sabirthapa/"
+  linkedin: "sabirthapa"
 
 # Reading Files
 include:
