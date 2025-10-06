@@ -22,10 +22,9 @@ I am a **graduate student** supervised by [**Dr. Wenyao Xu**](https://cse.buffal
 
 My research interests lie in **Smart Health**, **Mobile Computing**, and **Mobile Health**, focusing on bridging the gap between **physiological signals** and **machine learning algorithms** to develop more effective and intelligent healthcare solutions.
 
-I completed my **Bachelor’s degree in Computer Science** from **Tribhuvan University, Nepal** in 2024.  
-During my undergraduate studies, I worked as a **Software Engineer** at *eSewa*, a leading fintech company in Nepal, and also gained experience as a **Technical Writer and Software Engineer** at *Programiz*, an e-learning platform that provides beginner-friendly programming resources and tutorials.
+I completed my **Bachelor’s degree in Computer Science** from **Tribhuvan University, Nepal** in 2024. During my undergraduate studies, I worked as a **Software Engineer** at *eSewa*, a leading fintech company in Nepal, and also gained experience as a **Technical Writer and Software Engineer** at *Programiz*, an e-learning platform that provides beginner-friendly programming resources and tutorials.
 
-If you have research ideas or would like to collaborate, feel free to reach out — I’d love to connect!
+If you have some ideas and would like to collaborate, I would love to get in touch.
 
 📧 **Email:** sabirtha@buffalo.edu
 
