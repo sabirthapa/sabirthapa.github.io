@@ -1,6 +1,6 @@
 # Site Settings
 title: "Sabir Thapa Chhetri"
-description: "CSE, University at Buffalo"
+description: "zd"
 repository: "sabirthapa/sabirthapa.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -16,10 +16,10 @@ baidu_site_verification:
 author:
   name: "Sabir Thapa Chhetri"
   avatar: "images/sabir.jpg"  
-  bio: "Graduate Student, Embedded Sensing and Computing (ESC) Lab, University at Buffalo"
+  bio: "CSE, University at Buffalo"
   location: "Buffalo, NY, USA"
   employer: "University at Buffalo"
-  googlescholar: "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar: ""
   email: "sabirtha@buffalo.edu"
   github: "sabirthapa"
   linkedin: "https://www.linkedin.com/in/sabirthapa/"
