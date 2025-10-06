@@ -1,6 +1,6 @@
 # Site Settings
 title: "Sabir Thapa Chhetri"
-description: "zd"
+description: ""
 repository: "sabirthapa/sabirthapa.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -15,19 +15,13 @@ baidu_site_verification:
 # Site Author
 author:
   name: "Sabir Thapa Chhetri"
-  avatar: "images/sabir.jpg"  
+  avatar: "images/sabirthapa.jpg"  
   bio: "CSE, University at Buffalo"
   location: "Buffalo, NY, USA"
   employer: "University at Buffalo"
-  googlescholar: ""
   email: "sabirtha@buffalo.edu"
   github: "sabirthapa"
   linkedin: "https://www.linkedin.com/in/sabirthapa/"
-  dblp:
-  orcid:
-  researchgate:
-  stackoverflow:
-  twitter:
 
 # Reading Files
 include:
