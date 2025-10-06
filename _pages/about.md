@@ -16,10 +16,18 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👋 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a **graduate student** supervised by [**Dr. Wenyao Xu**](https://cse.buffalo.edu/~wenyaoxu/) in the [**Embedded Sensing and Computing (ESC) Lab**](https://cse.buffalo.edu/~wenyaoxu/esc.html) at the **University at Buffalo**, where I began my Ph.D. in **Fall 2025**.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests lie in **Smart Health**, **Mobile Computing**, and **Mobile Health**, focusing on bridging the gap between **physiological signals** and **machine learning algorithms** to develop more effective and intelligent healthcare solutions.
+
+I completed my **Bachelor’s degree in Computer Science** from **Tribhuvan University, Nepal** in 2024.  
+During my undergraduate studies, I worked as a **Software Engineer** at *eSewa*, a leading fintech company in Nepal, and also gained experience as a **Technical Writer and Software Engineer** at *Programiz*, an e-learning platform that provides beginner-friendly programming resources and tutorials.
+
+If you have research ideas or would like to collaborate, feel free to reach out — I’d love to connect!
+
+📧 **Email:** sabirtha@buffalo.edu
 
 
 # 🔥 News
