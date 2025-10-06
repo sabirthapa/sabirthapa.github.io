@@ -1,6 +1,6 @@
 # Site Settings
 title: "Sabir Thapa Chhetri"
-description: "Graduate student at University at Buffalo, working on Smart Health, Mobile Computing, and Mobile Health at ESC Lab."
+description: "CSE, University at Buffalo"
 repository: "sabirthapa/sabirthapa.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -15,7 +15,7 @@ baidu_site_verification:
 # Site Author
 author:
   name: "Sabir Thapa Chhetri"
-  avatar: "images/profile.jpg"  # replace with your photo later
+  avatar: "images/sabir.jpg"  
   bio: "Graduate Student, Embedded Sensing and Computing (ESC) Lab, University at Buffalo"
   location: "Buffalo, NY, USA"
   employer: "University at Buffalo"
