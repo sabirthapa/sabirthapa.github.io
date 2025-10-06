@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# 👋 About Me
+# **About Me**
 
 I am a **graduate student** supervised by [**Dr. Wenyao Xu**](https://cse.buffalo.edu/~wenyaoxu/) in the [**Embedded Sensing and Computing (ESC) Lab**](https://cse.buffalo.edu/~wenyaoxu/esc.html) at the **University at Buffalo**, where I began my Ph.D. in **Fall 2025**.
 
@@ -29,37 +29,51 @@ If you have some ideas and would like to collaborate, I would love to get in tou
 📧 **Email:** sabirtha@buffalo.edu
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# **Education**
 
-# 📝 Publications 
+- **Ph.D. in Computer Science and Engineering**  
+  *University at Buffalo, The State University of New York (SUNY)* — *2025 – Present*  
+  Supervisor: [**Dr. Wenyao Xu**](https://cse.buffalo.edu/~wenyaoxu/)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **B.Sc. in Computer Science**  
+  *Tribhuvan University, Kathmandu, Nepal* — *2019 – 2024*  
+  Department of Computer Science
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# Work Experience
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+### **Software Engineer — eSewa Ltd., Kathmandu, Nepal**  
+*Mar 2023 – Aug 2025*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+[eSewa](https://esewa.com.np) is Nepal’s first and most trusted digital wallet, with over 10 million registered users and 350,000+ merchants.  
+As a **Software Engineer**, I focused on building high-performance iOS applications and implementing AI-driven features for user experience and security.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Mobile Engineering:** Designed and developed core features for eSewa’s iOS app using Swift, UIKit, and Combine.  
+- **AI & ML Integration:** Implemented Core ML models for behavior prediction, fraud detection, and adaptive UI.  
+- **Frameworks & Design Patterns:** Applied MVC, MVP, and clean architecture to maintain modular, scalable codebases.  
+- **UI & UX:** Created responsive, user-centric layouts using Auto Layout and programmatic UI.  
+- **APIs & Tools:** Integrated RESTful APIs, Firebase, Alamofire, and Crashlytics for analytics and real-time monitoring.  
+- **Version Control & Deployment:** Managed Git workflows, provisioning profiles, and App Store releases.  
+- **Security & CI/CD:** Automated build and deployment pipelines and ensured cryptographic security for transactions.  
+- **Collaboration:** Worked closely with backend, QA, and product teams in an Agile development environment.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### **Technical Writer — Programiz, Kathmandu, Nepal**  
+*Mar 2023 – Mar 2025 (Freelance)*
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[Programiz](https://www.programiz.com) is a global e-learning platform with over 270M+ annual users learning programming online.  
+At Programiz, I contributed to both content development and software documentation.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **Content Creation:** Authored beginner-friendly programming tutorials in Python, C++, and JavaScript.  
+- **SEO Optimization:** Helped rank articles among the top Google search results.  
+- **Advanced Topics:** Wrote intermediate articles on algorithms, data structures, and API development.  
+- **Blog Writing:** Published engaging articles explaining core computer science and software concepts.
+
+---
+
+### **Software Developer (Mobile) — Programiz, Kathmandu, Nepal**  
+*Mar 2021 – Mar 2023 (On-site)*
+
+- **Development:** Contributed to the design and improvement of the Programiz mobile application.  
+- **Responsibilities:** Focused on bug fixing, feature implementation, and performance optimization.  
+- **Impact:** Enhanced user experience and app stability through iterative development and testing.
